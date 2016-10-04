@@ -3,13 +3,13 @@ body {
 }
 
 a {
-	text-decoration: none
-	color: red;
+	text-decoration: none;
+	color: #66CCFF;
 }
 
 #container {
 	background-color: white;
-	width: 800px
+	width: 800px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -39,8 +39,8 @@ a {
 }
 
 #main {
-	width: 300px;
-	float: right;
+	width: 600px;
+	float: left;
 }
 
 #footer {
